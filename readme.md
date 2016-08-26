@@ -2,6 +2,8 @@
 
 Datafreezer is a newsroom tool that enables reporters and editors to easily share datasets.
 
+**We're still working on deploying and open-sourcing this news application. This repo is a development snapshot of a private Datafreezer repo on the Dallas Morning News' organization. Deployed URL to come.**
+
 ## Features
 
 #### Upload
